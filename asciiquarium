@@ -1,48 +1,13 @@
 #!/usr/bin/env perl
 #
 #############################################################################
+#
 # Asciiquarium - An aquarium/sea animation in ASCII art
 #
-# This program displays an aquarium/sea animation using ASCII art.
+# Enjoy the mysteries of the sea from the safety of your own terminal!
 #
 #############################################################################
-# Usage:
-#
-# There are no command line arguments.
-# Keybinds at runtime:
-# 	q	quit
-# 	r	redraw (will recreate all entities)
-# 	p	toggle pause
-#
-#############################################################################
-# Installation:
-#
-# Asciiquarium is a single perl script, so all you have to do is make sure
-# it's executable and put it somewhere convenient, like /usr/local/bin or
-# /usr/local/games.
-#
-#############################################################################
-# Requirements:
-#
-# Asciiquarium depends on the Term::Animation perl module, which depends on
-# Curses. You can get both modules from http://search.cpan.org. This program
-# will only run on platforms that have a Curses library (so it won't work on
-# Windows, but you might get it to run under cygwin).
-#
-# Installing dependencies on debian/ubuntu:
-# sudo apt install perl-modules libcurses-perl && sudo cpan -i Term::Animation
-#
-#############################################################################
-# Historical:
-#
-# Asciiquarium was originally written by Kirk Baucom <kbaucom@schizoid.com>.
-# Many changes from different people were integrated into the application.
-#
-# The original version of this program is available at:
-# http://robobunny.com/projects/asciiquarium
-#
-#############################################################################
-# Author:
+# Original Author:
 #   Kirk Baucom <kbaucom@schizoid.com>
 #
 # Contributors:
