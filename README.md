@@ -3,6 +3,8 @@
 Asciiquarium is an aquarium/sea animation in ASCII art.  
 Enjoy the mysteries of the sea from the safety of your own terminal!
 
+![preview](https://user-images.githubusercontent.com/48992448/219967010-69ee6002-a299-444e-b9cd-fc5222cb7488.gif)
+
 > Original by Kirk Baucom <kbaucom@schizoid.com>  
 > https://robobunny.com/projects/asciiquarium/html
 
