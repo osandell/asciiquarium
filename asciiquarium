@@ -1157,7 +1157,7 @@ sub add_fishhook {
 .
 
 \
-
+?
 };
     my $line_image = "|\n" x 50 . " \n" x 6;
 
