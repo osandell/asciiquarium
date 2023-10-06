@@ -421,7 +421,7 @@ q{
         color         => \@castle_mask,
         position      => [ $anim->width() - 32, $anim->height() - 13, $depth{'castle'} ],
         callback_args => [ 0, 0, 0, 0.1],
-        default_color => 'WHITE',
+        default_color => 'white',
     );
 }
 
