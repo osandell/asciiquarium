@@ -51,6 +51,10 @@
 #     screensaver mode
 #     (https://gist.github.com/nothub/91ff81bd945eb8f1e6af08492a13ff75?permalink_comment_id=4476043#gistcomment-4476043)
 #
+#   Steven Ward: https://github.com/planet36
+#     various bug fixes and consistency patches
+#     (https://github.com/nothub/asciiquarium/pulls?q=author:planet36)
+#
 #############################################################################
 # License:
 #
@@ -79,7 +83,7 @@ use Getopt::Long qw(GetOptions);
 use strict;
 use warnings;
 
-my $version = "1.2";
+my $version = "1.3";
 my $help_message = 'Asciiquarium is an aquarium/sea animation in ASCII art.
 Enjoy the mysteries of the sea from the safety of your own terminal!
 
